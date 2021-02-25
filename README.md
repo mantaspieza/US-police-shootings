@@ -1,5 +1,6 @@
 # US-police-shootings
 ## 1st Capstone Project of Turing College
+[Link to Fatal Police Shooting Capstone Project on Google Colab with rights to comment](https://colab.research.google.com/drive/1sGKSY6AHbnsAlrvNtHOsZAM2MWDJUo5u?usp=sharing)
 
 ### Introduction
 
@@ -27,4 +28,4 @@ Population distribution by race / ethnicity (2015-2019) [KFF](https://www.kff.or
 [United States Age Structure](https://www.indexmundi.com/united_states/age_structure.html)
 
 
-[Link to Fatal Police Shooting Capstone Project on Google Colab with rights to comment](https://colab.research.google.com/drive/1sGKSY6AHbnsAlrvNtHOsZAM2MWDJUo5u?usp=sharing)
+
