@@ -1,6 +1,5 @@
 # US-police-shootings
 ## 1st Capstone Project of Turing College
-[Link to Fatal Police Shooting Capstone Project on Google Colab with rights to comment](https://colab.research.google.com/drive/1sGKSY6AHbnsAlrvNtHOsZAM2MWDJUo5u?usp=sharing)
 
 ### Introduction
 
