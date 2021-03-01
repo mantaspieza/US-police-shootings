@@ -1,6 +1,9 @@
 # US-police-shootings
 ## 1st Capstone Project of Turing College
 
+You can easily view it here:  
+[Jupyter NB viewer](https://nbviewer.jupyter.org/github/mantaspieza/US-police-shootings/blob/main/US_Police_Fatal_Shootings.ipynb)
+
 ### Introduction
 
 Police brutality is a major issue in United States for decades. The purpose of this project is to gain insights and share possible improvements to reduce the fatal police shootings in the future.
